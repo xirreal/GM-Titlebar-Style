@@ -23,6 +23,7 @@ export default {
                     initialValue: () => settingsStore.color,
                     oninput: (value) => {
                         settingsStore.color = value;
+                        meta.content = settingsStore.color;
                     },
                 },
             ]);
