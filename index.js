@@ -1,4 +1,4 @@
-import * as settings from '@goosemod/settings';
+import { createItem, removeItem } from '@goosemod/settings';
 
 const settingsStore = { color: "#f2f2f2" };
 

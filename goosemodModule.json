@@ -1,8 +1,8 @@
 {
     "main": "index.js",
     "version": "1.0.0",
-    "name": "Tilebar style",
-    "description": "Allows you to see to inject simple metadata to style the titelbar",
+    "name": "Titlebar style",
+    "description": "Allows you to see to inject simple metadata to style the titlebar",
     "tags": ["ui"],
     "authors": ["189079074054995969"]
   }
